@@ -1,1 +1,1 @@
-# Ladder-Clutch-Practice
+Ladder Clutchの練習マップです。基本的な使い方は、練習する高さを選択。梯子を捨てるとリセットされます。
